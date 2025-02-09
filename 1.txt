@@ -2,3 +2,4 @@ Hello World
 Positive vibes
 Positiva mind
 a=2
+d = s * t
